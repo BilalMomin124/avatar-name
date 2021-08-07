@@ -1,0 +1,17 @@
+.avatar-card{
+    border-radius: 10px;
+    /* border: none; */
+    box-shadow: -2px 2px 5px 3px #0000001a;
+}
+.avatar_name{
+    font-weight: 700;
+}
+.avatar_email{
+    text-align: center;
+    font-size: 14px;
+    font-weight: 500;
+    color: #808080c4;
+}
+.avatar_image{
+    object-fit: cover;
+}
